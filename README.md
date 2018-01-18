@@ -1,12 +1,13 @@
 # Web Page Design - Spring 2018
 
-## Lab-3 - Links, Images, and Embedded Stylesheets
-
 **Discussion:** In Chapter 3, you will have learned how to build web pages with
 links, and embedded stylesheets. It's time to practice. Included are all the
 files that you need. 
 
-1. Complete the tutorial on pages 87-141 using the files in the chapter folder.
+## Chapter 3 - Complete the tutorial as written in chapter 3 on pages 88-142
+
+## Lab 3 - Links, Images, and Embedded Stylesheets
+
 1. Complete the first two labs in the text on pages 147-150
 1. Complete **Cases and Places** exercise 2 on page 152. If the writeup here
    seems confusing, all it is asking is that you create a web page with some text
